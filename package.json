@@ -1,0 +1,17 @@
+{
+  "name": "sele",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "selenium-webdriver": "~2.44.0",
+    "chromedriver": "~2.12.0",
+    "chai": "~1.10.0",
+    "chai-as-promised": "~4.1.1"
+  }
+}
